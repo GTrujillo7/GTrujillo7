@@ -13,7 +13,7 @@ I like program solutions whith focus on the Industry 4.0 using __Python__ and __
 <!-- Talking about me -->
 **About Me:**
 
-- You can see my projects here __[My Portfolio]()__.
+- You can see my projects here __[My Portfolio](https://gtrujillo-portfolio2.netlify.app/)__.
 - I’m currently learning __Flutter__ and __Fastapi__
 - Im a professional Industrial Enginner but i have more than 5 Years auto studing Web and Mobile Languages.
 

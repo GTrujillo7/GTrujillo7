@@ -7,7 +7,8 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-HI! here Gabriel I'm a __Mobile Developer__, i like to solve __real-world problems🌏__ and create apps to make more easier my Job. 
+HI! here Gabriel I'm a __Web and Mobile Developer__, i like to solve __real-world problems🌏__ and create apps to make more easier my Job.
+I like program solutions whith focus on the Industry 4.0 using __Python__ and __Arduino__ complementing this creating a Dashboard control in  __Power Bi__ or Web App whith any __Javascript Framework__.
 
 <!-- Talking about me -->
 **About Me:**
@@ -24,33 +25,26 @@ HI! here Gabriel I'm a __Mobile Developer__, i like to solve __real-world proble
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  
   <br />
-  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  
   <br />
-  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  
   <br />
-  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  
   <br />
-  
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
+  <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
   <code><img width="15%" src=" https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
- 
-  
-
 </p>
 
 ---
